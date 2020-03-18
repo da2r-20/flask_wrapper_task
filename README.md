@@ -13,7 +13,6 @@ what you will do?
 
 Things to take into consideration:
  - logging
- - virtualenv
  - error codes on failure
  - tests
  - project folder structure
